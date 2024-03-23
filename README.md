@@ -1,6 +1,6 @@
 # Cofre de Senhas Seguro
 
-Este é um cofre de senhas projetado para garantir a segurança dos seus dados usando criptografia AES IGE, Scrypt e um código OTP (One-Time Password). A proposta deste cofre é fornecer uma camada adicional de segurança conhecida como "honey encryption".
+Este é um cofre de senhas projetado para gerar suas credenciais, armazenando as credenciais geradas usando criptografia AES IGE, Scrypt e um código OTP (One-Time Password). A proposta deste cofre é fornecer uma camada adicional de segurança conhecida como "honey encryption".
 
 ## Como Usar
 
