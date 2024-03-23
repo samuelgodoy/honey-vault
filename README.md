@@ -6,15 +6,6 @@ Este é um cofre de senhas projetado para armazenar credenciais autogeradas, usa
 
 Para utilizar o cofre de senhas, siga as instruções abaixo:
 
-### Pré-requisitos
-
-- Certifique-se de ter o Go instalado na sua máquina.
-- Certifique-se de ter todas as dependências instaladas. Você pode instalá-las executando `go mod tidy`.
-
-### Modos Disponíveis
-
-Existem diferentes modos disponíveis para manipular o cofre de senhas:
-
 #### Modo Gerar Cofre (Generate Vault)
 
 Este modo é usado para criar um novo cofre.
